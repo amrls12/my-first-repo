@@ -3,4 +3,4 @@ Learning Git is going well so far.
 The third line.
 The fourth line.
 I added this line in the update-readme branch.
-It's windy outside today.
+It's cloudy outside today.
