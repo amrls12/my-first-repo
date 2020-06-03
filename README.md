@@ -1,5 +1,3 @@
 # Antonios
 
-## Data scientist  
-
-i live in **Greece**
+H XRISTIANNA XRISIMOPOIOUSE GIA POLLA XRONIA TAXI..TWRA PERNEI AUTOKINHTO
