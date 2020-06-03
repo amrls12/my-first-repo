@@ -1,5 +1,5 @@
-Â#Antonios
+#Antonios
 
 ##Data scientist 
 
-i live in **Greece*
+i live in **Greece**
